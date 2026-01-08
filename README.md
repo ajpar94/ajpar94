@@ -2,7 +2,7 @@
 <img src="https://github.com/ajpar94/ajpar94/blob/main/images/banner_1.png" width="100%"/>
 
 <p align="center">
-  I am a Software Engineer with a passion for building applications that make life simpler. Beyond developing systems, I enjoy uncovering insights from complex data across diverse domains, managing end-to-end data pipelines from storage and transformation to analysis and visualization. Recently, I ventured into the start-up world by co-founding Treage, which aims to make medical documentation more efficient and intelligent (https://treage.net). With the technical development at Treage now complete, I am excited to take on new challenges and strive to create meaningful solutions while staying curious and building my skills along the way.
+  I am a Software Engineer with a passion for building applications that make life simpler. Beyond developing systems, I enjoy uncovering insights from complex data across diverse domains, managing end-to-end data pipelines from storage and transformation to analysis and visualization. Recently, I ventured into the start-up world by co-founding Treage, which aims to make medical documentation more efficient and intelligent (https://treage.net). With the technical development at Treage now complete, I am excited to take on new challenges and strive to create meaningful solutions while staying curious and building my skills along the way:
 </p>
 
 <p align="center">
