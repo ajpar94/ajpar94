@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-101010?logo=postgresql"/>
   <img src="https://img.shields.io/badge/-MongoDB-101010?logo=mongodb"/>
   <img src="https://img.shields.io/badge/-Git-101010?logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-101010?logo=github"/>
   <img src="https://img.shields.io/badge/-Docker-101010?logo=docker"/>
   <img src="https://img.shields.io/badge/-Kubernetes-101010?logo=kubernetes"/>
   <img src="https://img.shields.io/badge/-Bash-101010?logo=gnubash"/>
