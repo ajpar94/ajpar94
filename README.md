@@ -35,11 +35,10 @@
   <img src="https://github.com/ajpar94/ajpar94/blob/main/images/screen1.png?raw=true" width="32%" />
   &nbsp; <img src="https://github.com/ajpar94/ajpar94/blob/main/images/screen2.png?raw=true" width="32%" />
   &nbsp; <img src="https://github.com/ajpar94/ajpar94/blob/main/images/screen3.png?raw=true" width="32%" />
+  <br/><br/>
+  Some images from my latest project. Find out more at <a href="https://treage.net">treage.net</a>
 </div>
 
-<p align="center">
- Some images from my latest project. Find out more at https://treage.net
-</p>
 
 <!--
 **ajpar94/ajpar94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
