@@ -2,7 +2,7 @@
 <img src="https://github.com/ajpar94/ajpar94/blob/main/images/banner_1.png" width="100%"/>
 
 <p align="center">
-  I am a Software Engineer with a passion for building applications that make life simpler. Beyond developing systems, I enjoy uncovering insights from complex data across diverse domains, managing end-to-end data pipelines from storage and transformation to analysis and visualization. Recently, I ventured into the start-up world by co-founding Treage, which aims to make medical documentation more efficient and intelligent (https://treage.net). With the technical development at Treage now complete, I am excited to take on new challenges and strive to create meaningful solutions while staying curious and building my skills along the way:
+  I am a Software Engineer with a passion for building applications that make life simpler. Beyond developing systems, I enjoy uncovering insights from complex data across diverse domains, managing end-to-end data pipelines from storage and transformation to analysis and visualization. Recently, I ventured into the start-up world by co-founding TREAGE, where I led the technical side of the house: building the web app, setting up our databases, and implementing AI features to make medical documentation smarter and more efficient. With the technical development at TREAGE now complete, I am excited to take on new challenges and strive to create meaningful solutions while staying curious and building my skills along the way:
 </p>
 
 <p align="center">
@@ -27,6 +27,18 @@
   <img src="https://img.shields.io/badge/-Ollama-101010?logo=ollama"/>
   <img src="https://img.shields.io/badge/-Figma-101010?logo=figma"/>
   <img src="https://img.shields.io/badge/-Davinci%20Resolve-101010?logo=davinciresolve"/> 
+</p>
+
+---
+
+<div align="center">
+  <img src="https://github.com/ajpar94/ajpar94/blob/main/images/screen1.png?raw=true" width="32%" />
+  &nbsp; <img src="https://github.com/ajpar94/ajpar94/blob/main/images/screen2.png?raw=true" width="32%" />
+  &nbsp; <img src="https://github.com/ajpar94/ajpar94/blob/main/images/screen3.png?raw=true" width="32%" />
+</div>
+
+<p align="center">
+ Some images from my latest project. Find out more at https://treage.net
 </p>
 
 <!--
